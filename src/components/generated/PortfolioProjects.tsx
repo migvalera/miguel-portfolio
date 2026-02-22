@@ -281,9 +281,9 @@ export const PortfolioProjects = ({
                 <SocialBaseDark isHovered={hoveredSocial === 'foot-li'} />
                 <img src="https://storage.googleapis.com/storage.magicpath.ai/user/374596014063120384/figma-assets/ad0ca53c-9242-4a76-9561-d6e723e70067.svg" alt="" className={`w-[16px] h-[16px] absolute left-[13px] top-[13px] transition-all duration-300 ${hoveredSocial === 'foot-li' ? 'invert brightness-0' : 'invert-0 brightness-0'}`} />
               </a>
-              <a href="https://www.behance.net/migvaler" target="_blank" rel="noopener noreferrer" onMouseEnter={() => setHoveredSocial('foot-be')} onMouseLeave={() => setHoveredSocial(null)} className="relative flex flex-row gap-[10px] p-0 cursor-pointer" aria-label="Behance">
+              <a href="https://migvaler.medium.com/" target="_blank" rel="noopener noreferrer" onMouseEnter={() => setHoveredSocial('foot-be')} onMouseLeave={() => setHoveredSocial(null)} className="relative flex flex-row gap-[10px] p-0 cursor-pointer hidden" aria-label="Medium">
                 <SocialBaseDark isHovered={hoveredSocial === 'foot-be'} />
-                <img src="https://storage.googleapis.com/storage.magicpath.ai/user/374596014063120384/figma-assets/31f081db-0b0a-4cfc-96eb-23c1bd43fff4.svg" alt="" className={`w-[16px] h-[16px] absolute left-[13px] top-[13px] transition-all duration-300 ${hoveredSocial === 'foot-be' ? 'invert brightness-0' : 'invert-0 brightness-0'}`} />
+                <img src="https://cdn.simpleicons.org/medium/000000" alt="" className={`w-[16px] h-[16px] absolute left-[13px] top-[13px] transition-all duration-300 ${hoveredSocial === 'foot-be' ? 'invert brightness-0' : 'invert-0 brightness-0'}`} />
               </a>
             </div>
           </div>
@@ -301,3 +301,8 @@ export const PortfolioProjects = ({
     </div>;
 };
 export default PortfolioProjects;
+
+
+
+
+

@@ -231,9 +231,9 @@ const HomePage = ({
                 <SocialBase isHovered={hoveredSocial === 'hero-li'} />
                 <img src="https://storage.googleapis.com/storage.magicpath.ai/user/374596014063120384/figma-assets/745d3dc1-75b4-4ac5-9987-89b643621b51.svg" alt="" className={`w-[16px] h-[16px] absolute left-[13px] top-[13px] transition-all duration-300 ${hoveredSocial === 'hero-li' ? 'invert' : ''}`} />
               </a>
-              <a href="https://www.behance.net/migvaler" target="_blank" rel="noopener noreferrer" onMouseEnter={() => setHoveredSocial('hero-be')} onMouseLeave={() => setHoveredSocial(null)} className="relative flex flex-row gap-[10px] p-0 cursor-pointer" aria-label="Behance">
+              <a href="https://migvaler.medium.com/" target="_blank" rel="noopener noreferrer" onMouseEnter={() => setHoveredSocial('hero-be')} onMouseLeave={() => setHoveredSocial(null)} className="relative flex flex-row gap-[10px] p-0 cursor-pointer hidden" aria-label="Medium">
                 <SocialBase isHovered={hoveredSocial === 'hero-be'} />
-                <img src="https://storage.googleapis.com/storage.magicpath.ai/user/374596014063120384/figma-assets/4b0e04a1-250c-4816-b1a5-c093a83da971.svg" alt="" className={`w-[16px] h-[16px] absolute left-[13px] top-[13px] transition-all duration-300 ${hoveredSocial === 'hero-be' ? 'invert' : ''}`} />
+                <img src="https://cdn.simpleicons.org/medium/000000" alt="" className={`w-[16px] h-[16px] absolute left-[13px] top-[13px] transition-all duration-300 ${hoveredSocial === 'hero-be' ? 'invert' : ''}`} />
               </a>
             </div>
           </div>
@@ -386,3 +386,8 @@ const HomePage = ({
     </div>;
 };
 export const Home = PersonalPortfolio;
+
+
+
+
+

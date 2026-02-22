@@ -1,0 +1,27 @@
+{
+  "sections": {
+    "about": "About the project",
+    "keyObjectives": "Key objectives",
+    "figmaMake": "Prototyping in Figma Make",
+    "magicPathCursor": "Connecting with MagicPath and Cursor",
+    "errorsLearnings": "Errors and learnings",
+    "retrospective": "Analysis and retrospective"
+  },
+  "title": "This portfolio is Design + AI",
+  "subtitle": "This portfolio was created with Figma Make, using AI and MCP to connect it with Cursor and automate its publication on GitHub, taking design to production.",
+  "aboutProject": "This portfolio started as a personal project to explore the real potential of AI applied to the full design-to-production flow. The aim was to build a functional web starting from Figma and connect different tools to speed up the generation of responsive code, understanding not only what is possible today but where the real design-to-code friction points are. Beyond the visual result, the focus was on turning the process into a reproducible workflow for professional projects.",
+  "keyObjectives": "The project focused on experimenting with the current limits of AI tools to turn design into code, speed up the step from concept to implementation and automate part of the deployment through the Figma > MagicPath > Cursor > Vercel flow. At the same time, it served to identify real workflow friction, technical limitations of MCPs and improvement opportunities in the connection between design, prototyping and development.",
+  "figmaMake": "The initial prototype was developed in Figma Make, using natural language prompts and a mini design system created specifically for the project. The focus was not only on building screens but on evaluating the tool's ability to generate complete layouts, reusable components and micro-interactions. This phase made it possible to iterate quickly and validate visual decisions, but also showed that, although powerful for exploration, it is not yet a direct solution for real production.",
+  "magicPathCursor": "To take the design to code, Figma Make was integrated with Cursor via MCP, generating a first frontend base in a semi-automated way and connecting the project with GitHub for publication. Although this flow sped up the creation of a functional version, a high level of manual intervention was needed to improve visual fidelity, structure and code quality. Finally MagicPath was incorporated to get a more accurate translation of the design, confirming that current tools are useful accelerators but do not yet replace professional manual refinement.",
+  "errorsLearnings": "The project made it clear that AI is powerful for exploratory phases but requires a clear strategy to avoid unnecessary friction. Not defining a design system from the start increased rework later, and over-relying on the fidelity of generated code led to significant manual adjustments. It also showed that many well-crafted design animations do not transfer to production with the same quality, reinforcing the need to prioritise real impact over effort invested. Overall, the main learning was understanding where AI adds speed and where human control remains essential.",
+  "retrospective": "This project has consolidated a hybrid flow between automation and conscious design, where AI acts as an accelerator but not as a substitute for product judgement. Defining systems from the start, using tools strategically and assuming manual intervention as part of the process has made it possible to build not only a functional portfolio but a solid workflow: Figma → MagicPath → Cursor → Vercel. The result is a more efficient methodology for future projects, reducing friction between design and development without compromising professional quality.",
+  "otherMigracion": {
+    "title": "Migration of 100+ flows to new visual language",
+    "subtitle": "Definition of a tactical solution impacting 150+ components."
+  },
+  "otherRedesign": {
+    "title": "Process redesign with simulation",
+    "subtitle": "Redesign and prototyping project to validate through testing and improve funnel drop-off in the contracting of financial products that require simulation."
+  }
+}
+

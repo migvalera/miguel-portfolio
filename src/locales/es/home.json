@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "Soy Miguel Valera, Product Designer. Transformo problemas complejos en soluciones sencillas y eficaces.",
+    "bio": "Desde 2021 en el equipo de diseño de BBVA, me especializo en diseñar soluciones escalables para entornos complejos como la web y app de Empresas. Mi foco es priorizar las necesidades del usuario, coordinando con negocio y tecnología las soluciones de diseño y aportando valor tanto al equipo interno como al usuario final."
+  },
+  "carousel": {
+    "portfolioMv": {
+      "title": "Portfolio MV",
+      "description": "Primer portfolio como UX Designer diseñado y desarrollado de cero con HTML, CSS y JavaScript."
+    },
+    "allMusic": {
+      "title": "All.Music",
+      "description": "Diseño y prototipado en Figma de una app de música para el concurso de DesignCourse (+1M)."
+    },
+    "nuriaFoto": {
+      "title": "Nuria Albelda Fotografía",
+      "description": "Proyecto web one-page responsive diseñado y desarrollado de cero con HTML, CSS y JavaScript."
+    },
+    "vanvu": {
+      "title": "Vanvú. Reto en 72h",
+      "description": "Producto digital para optimizar gestión de comandas y reducir esperas en un restaurante de comida rápida."
+    },
+    "uxart": {
+      "title": "Side project: Uxart",
+      "description": "Un proyecto que nace con el objetivo de ofrecer una solución personalizada a artistas independientes."
+    },
+    "feelIt": {
+      "title": "Feel It",
+      "description": "Diseño UX/UI. Prototipo y experiencia."
+    }
+  },
+  "selectedProjects": {
+    "title": "Proyectos seleccionados",
+    "intro": "Estos son algunos de mis proyectos recientes en banca, con visuales limitados por NDA."
+  },
+  "project1": {
+    "title": "Rediseño de procesos con simulación",
+    "description": "Proyecto de rediseño y prototipado para validar mediante test y mejorar las caídas de funnel en contratación de productos financieros que requieren simulación."
+  },
+  "project2": {
+    "title": "Migración de más de 100 flujos a nuevo lenguaje visual",
+    "description": "Definición de solución táctica con impacto en +150 componentes y migración de más de 100 flujos al nuevo Design System en coordinación con negocio y tecnología."
+  },
+  "designIA": {
+    "title": "Este portfolio es Diseño + IA",
+    "description": "Este portfolio está creado con Figma Make, apoyándome en IA y utilizando MCP para conectarlo con Cursor y automatizar su publicación en GitHub, llevando el diseño a producción."
+  },
+  "collaborations": {
+    "title": "Colaboraciones",
+    "subtitle": "Algunas marcas que han confiado en mí."
+  }
+}

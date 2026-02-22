@@ -1,0 +1,32 @@
+{
+  "sections": {
+    "about": "Sobre el proyecto",
+    "keyObjectives": "Objetivos clave",
+    "benchmarking": "Benchmarking competitivo y Product Canvas",
+    "interviews": "Entrevistas a stakeholders y usuarios",
+    "serviceBlueprint": "Service blueprint",
+    "wireframes": "Wireframes",
+    "functionalPrototype": "Prototipo funcional",
+    "userTest": "Test con usuarios y próximos pasos",
+    "retrospective": "Análisis y retrospectiva"
+  },
+  "title": "Diseño de producto en 72h",
+  "subtitle": "El reto es diseñar un producto multidispositivo para optimizar la gestión de comandas y reducir tiempos de espera en un restaurante vegano de comida rápida.",
+  "aboutProject": "Vanvú es un MVP de producto digital diseñado bajo una metodología de sprint de 72 horas. El proyecto se enfoca en resolver la fricción operativa entre el usuario final y el sistema de gestión de pedidos, buscando una solución que equilibre la estética visual con una arquitectura de información funcional para clientes externos e internos.",
+  "keyObjectives": "Reducir los tiempos de espera del cliente, aumentando feedback positivo y fidelización y optimizando el servicio y gestión de comandas, reduciendo errores y aumentando la rotación de mesas y RevPash.",
+  "benchmarking": "Realicé un análisis de competidores directos e indirectos para identificar patrones de diseño establecidos y oportunidades de diferenciación. Mediante el Product Canvas, definí la propuesta de valor y alineé las funcionalidades críticas con los objetivos de negocio, asegurando que el producto resolviera necesidades reales del mercado.",
+  "interviews": "A través de investigación cualitativa, identifiqué puntos de dolor críticos como la dificultad en la comunicación con cocina y la falta de agilidad en el proceso de toma de pedidos. Estos insights permitieron priorizar el backlog y centrar los esfuerzos de diseño en las funcionalidades de mayor impacto para la eficiencia del servicio.",
+  "serviceBlueprint": "Diseñé un Service Blueprint para visualizar el ecosistema completo, mapeando las interacciones front-stage del usuario y los procesos back-stage del equipo de operaciones. Este enfoque holístico permitió detectar cuellos de botella operativos y diseñar una solución que integra el flujo digital con la logística física del local.",
+  "wireframes": "En la fase de definición, utilicé wireframes para establecer la estructura de navegación y el layout de las pantallas principales sin distracciones visuales. Validamos la arquitectura de la información y los flujos de interacción básicos, asegurando que la curva de aprendizaje para el usuario fuera mínima. Establecemos la base de color, estilos, tipografía y elementos para un design system a mínimos.",
+  "functionalPrototype": "Construí un prototipo de alta fidelidad que incluye los flujos críticos de selección, personalización de productos y el checkout. El prototipo permite validar la interacción de componentes y la respuesta del sistema ante diferentes estados del usuario, facilitando la comunicación del diseño final a los desarrolladores.",
+  "userTest": "Ejecuté pruebas de usabilidad con el prototipo para identificar posibles errores de navegación y fricciones en el flujo de pago. Basándome en los resultados, definí una hoja de ruta para iterar el diseño, enfocada en métricas de conversión y en la mejora de la accesibilidad del producto.",
+  "retrospective": "Trabajar para un cliente ficticio implica tomar decisiones estratégicas con información incompleta. Para reducir esa ambigüedad, definí un marco de marca mínimo (misión, visión, propuesta de valor y contexto operativo) que me permitió alinear la solución a una necesidad concreta y diseñar con criterios de escalabilidad. Planteé el producto no solo como respuesta a un restaurante tipo, sino como un sistema adaptable a distintos niveles de complejidad operativa —desde locales pequeños hasta estructuras con mayor volumen y personal— priorizando viabilidad, eficiencia y consistencia en la experiencia.\n\nAsimismo, reforcé la importancia de trabajar desde una lógica multidisciplinar y basada en datos. Aunque el ejercicio era individual, incorporé insights provenientes de entrevistas, análisis comparativo y patrones de mercado para fundamentar decisiones clave. Complementé esto con una reflexión sobre el proceso físico del servicio (operativa en mostrador, gestión de pedidos, tiempos de rotación, interacción staff-herramienta), entendiendo que la experiencia digital no puede desligarse de la realidad operacional. Esta mirada sistémica me permitió iterar con mayor criterio y diseñar una solución conectada tanto con el usuario final como con las dinámicas internas del negocio.",
+  "otherMigracion": {
+    "title": "Migración de más de 100 flujos a nuevo lenguaje visual",
+    "desc": "Definición de solución táctica con impacto en +150 componentes."
+  },
+  "otherPortfolio": {
+    "title": "Este portfolio es Diseño + IA",
+    "desc": "Este portfolio está creado con Figma Make, apoyándome en IA y utilizando MCP para conectarlo con Cursor."
+  }
+}

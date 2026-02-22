@@ -1,0 +1,27 @@
+{
+  "sections": {
+    "about": "About the project",
+    "role": "Role",
+    "keyObjectives": "Key objectives",
+    "tacticalSolution": "Tactical solution definition",
+    "migrationValidation": "Flow migration and validation",
+    "retrospective": "Analysis and retrospective"
+  },
+  "title": "Migration of 100+ flows to new visual language",
+  "subtitle": "Definition of a tactical solution impacting 150+ components and migration of flows to the new Design System in coordination with business and tech.",
+  "aboutProject": "The Enterprise area needed a tactical solution to migrate existing applications and flows quickly to the new visual language without affecting functionality or operational structure. From design we drove a full review of core components on web and app to ensure brand consistency and accelerate adoption of the new Design System, transforming libraries and establishing a validation system that ensured quality and scalability throughout the transition. Work coordinated with Design Lead and the UI Devs lead.",
+  "role": "As Product Designer I was responsible for the visual and systemic analysis of the migration, defining style equivalences, usage patterns and templates of the new Design System for BBVA Enterprise. My responsibility was to translate the new visual language into technically viable solutions in legacy compositions, coordinating with UI Devs, engineering and business to ensure real impact without breaking the existing experience or operations.",
+  "keyObjectives": "The focus was on auditing existing flows and components to understand risks and real scope of the migration, defining adoption patterns for the new Design System that were consistent and scalable, and validating that flows are DS-compliant before going to production. The whole process was supported by ongoing coordination with business and development, prioritising higher-impact flows and reinforcing QA in the integrated environment to minimise errors in deployment.",
+  "tacticalSolution": "A visual solution was designed based on equivalences in colour, typography, compositions and libraries, aligned with the technical capabilities of the development team. Through reusable templates and modules, 150+ components and 50 modules were transformed without changing functionality, guaranteeing visual consistency and operational continuity. The proposal was built in direct collaboration with tech to ensure real adoption and long-term sustainability of the system.",
+  "migrationValidation": "A validation flow was established with the Design Lead that made it possible to migrate 100+ flows from the Enterprise area consistently, applying the new styles and libraries of the Design System. In addition, patterns, templates and best practices were defined and are documented and communicated through weekly sessions that I lead, facilitating adoption by the Enterprise design teams and ensuring multi-device coherence as the system evolves.",
+  "retrospective": "The project consolidated a strategic design approach applied to large-scale transformations, balancing systemic vision and tactical execution without compromising user experience or business operations. Prior auditing reduced risks, definition of system governance ensured real consistency and early collaboration with development accelerated critical decisions. Beyond visual impact, the migration made it possible to reduce design debt, improve team efficiency and position design as a strategic partner within the organisation.",
+  "otherRedesign": {
+    "title": "Process redesign with simulation",
+    "desc": "Redesign and prototyping project to validate through testing and improve funnel drop-off in the contracting of financial products that require simulation."
+  },
+  "otherPortfolio": {
+    "title": "This portfolio is Design + AI",
+    "desc": "This portfolio was created with Figma Make, using AI and MCP to connect it with Cursor and automate its publication on GitHub."
+  }
+}
+

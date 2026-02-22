@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "Product Designer with a background in Psychology",
+    "bio": "I went from questions to screens to make the complex simple. I believe design isn't about Figma or the trendiest software, but about defining objectives, asking the right questions and finding solutions that improve the user experience. I'm currently exploring AI integrations in my workflow to optimize processes and speed up delivery with functional solutions and attractive designs."
+  },
+  "downloadCV": "Download CV",
+  "experience": {
+    "title": "Experience",
+    "intro": "I aim to integrate my previous experience coordinating strategic and organisational consulting projects to improve workflows within the design team."
+  },
+  "formation": {
+    "title": "Education",
+    "intro": "Academic background, certifications and courses. I'm currently studying AI integrations and vibe coding; I enjoy bringing designs to life."
+  },
+  "skills": {
+    "title": "Skills",
+    "intro": "Key tools and competencies in product design.",
+    "list": "• Design systems and architecture\n• Business and tech coordination\n• User research\n• Figma, Adobe Suite\n• HTML5, CSS3, Vibe coding\n• English C1"
+  },
+  "collaborations": {
+    "title": "Collaborations",
+    "subtitle": "Some brands that have trusted my work."
+  },
+  "companies": {
+    "bbva": {
+      "role": "Product Designer / Jan 2021 - Present",
+      "designSystem": "Design System at BBVA - with EGGS:",
+      "designSystemContent": "• Web and app design and prototyping for BBVA Enterprise.\n• Project analysis and QA in coordination with UI Devs (QA).\n• Definition and documentation of global web components and patterns.",
+      "productDesigner": "Product Designer / Researcher on the global design team:",
+      "productDesignerContent": "• Interaction design and prototyping for retail banking.\n• Redesign workshops in coordination with Behavioral Economics.\n• Facilitation of sessions with startups and design, business and tech areas of the Mexico team.\n• Definition of objectives, recruitment guides, interviews, prototypes and user testing, data analysis and presentation of results.",
+      "highlights": "-- Key achievements --",
+      "highlightsContent": "• Consistent migration of 100+ flows to the new visual language using agile methodologies, coordinating design, business and tech.\n• Tactical solution optimization for 150+ forms and 50+ modules.\n• Significant improvement in adoption of the new DS and multi-device consistency.\n• Improvement in financial product contracting funnel drop-off by redesigning the experience in processes that require simulation."
+    },
+    "freelance": {
+      "role": "UX/UI & Frontend Developer / Oct 2019 - Jan 2021",
+      "projects": "Independent projects:",
+      "content": "• Responsive web design, accessibility audits, wireframing and prototyping in Figma, Sketch, Adobe XD, Axure RP.\n• Development in HTML5, CSS3 and JavaScript.\n• Stakeholder and user interviews, competitive analysis, empathy map, user journey, user testing and data analysis."
+    },
+    "adecco": {
+      "role": "Project Coordinator / May 2016 - Jun 2019",
+      "division": "Strategic, organisational and development consulting division:",
+      "content": "• DPTS, focus groups and individual interviews with managers and employees.\n• Workload analysis, process optimization and internal communication.\n• KPIs, market studies and KPIs linked to variable remuneration.\n• Timeline and project phase tracking and consultant team.\n• Consolidation and presentation of reports and results to clients."
+    },
+    "dicea": {
+      "role": "Psychologist / Jan 2016 - Dec 2017",
+      "content": "Co-founder of Dicea Psicología Jurídica and member of the Official Register of Forensic Psychologists of the COP of the Valencian Community (CV13763)."
+    }
+  },
+  "education": [
+    { "title": "Data-Driven Design, Design Systems, Design and develop with Figma & CSS", "sub": "Tramontana, BBVA, EGGS, 2021-25" },
+    { "title": "Postgraduate in UX/UI Design and Front-end Web Development", "sub": "ESAT, 2019-20" },
+    { "title": "Advanced UX Research, UX Learn", "sub": "Torresburriel Estudio, 2019-20" },
+    { "title": "Responsive Web Design Certification", "sub": "FreeCodeCamp, 2018-19" },
+    { "title": "Master's in Legal Psychology", "sub": "UCV, 2014-15" },
+    { "title": "Degree in Psychology", "sub": "UV & University of Łódź, 2008-13" }
+  ]
+}
+

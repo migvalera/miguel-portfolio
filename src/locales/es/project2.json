@@ -1,0 +1,26 @@
+{
+  "sections": {
+    "about": "Sobre el proyecto",
+    "role": "Rol",
+    "keyObjectives": "Objetivos clave",
+    "tacticalSolution": "Definición de solución táctica",
+    "migrationValidation": "Migración de flujos y validación",
+    "retrospective": "Análisis y retrospectiva"
+  },
+  "title": "Migración de más de 100 flujos a nuevo lenguaje visual",
+  "subtitle": "Definición de solución táctica con impacto en +150 componentes y migración de flujos al nuevo Design System en coordinación con negocio y tecnología.",
+  "aboutProject": "El área de Empresas necesitaba una solución táctica para migrar rápidamente aplicaciones y flujos existentes al nuevo lenguaje visual sin afectar funcionalidades ni estructura operativa. Desde diseño se impulsó una revisión completa de componentes core en web y app para garantizar consistencia de marca y acelerar la adopción del nuevo Design System, transformando librerías y estableciendo un sistema de validación que asegurara calidad y escalabilidad durante toda la transición. Trabajo coordinado con Design Lead y el responsable de UI Devs.",
+  "role": "Como Product Designer me encargué del análisis visual y sistémico de la migración, definiendo equivalencias de estilos, patrones de uso y templates del nuevo Design System para BBVA Empresas. Mi responsabilidad fue traducir el nuevo lenguaje visual a soluciones viables técnicamente en composiciones legacy, coordinando con UI Devs, ingeniería y negocio para asegurar impacto real sin romper la experiencia ni la operativa existente.",
+  "keyObjectives": "El foco estuvo en auditar flujos y componentes existentes para entender riesgos y alcance real de la migración, definir patrones de adopción del nuevo Design System que fueran consistentes y escalables, y validar que los flujos son compliance con el DS antes de llegar a producción. Todo el proceso se apoyó en una coordinación continua con negocio y desarrollo, priorizando flujos de mayor impacto y reforzando el QA en entorno integrado para minimizar errores en el despliegue.",
+  "tacticalSolution": "Se diseñó una solución visual basada en equivalencias de color, tipografía, composiciones y librerías, alineada con las capacidades técnicas del equipo de desarrollo. A través de templates y módulos reutilizables se logró transformar más de 150 componentes y 50 módulos sin alterar funcionalidades, garantizando consistencia visual y continuidad operativa. La propuesta se construyó en colaboración directa con tecnología para asegurar adopción real y sostenibilidad del sistema en el tiempo.",
+  "migrationValidation": "Se estableció un flujo de validación junto al Design Lead que permitió migrar de forma consistente más de 100 flujos del área de Empresas aplicando los nuevos estilos y librerías del Design System. Además, se definieron patrones, templates y buenas prácticas que se documentan y comunican mediante sesiones semanales de las que soy owner, facilitando la adopción por parte de los equipos de diseño Empresas y asegurando coherencia multidispositivo a medida que el sistema evoluciona.",
+  "retrospective": "El proyecto consolidó un enfoque estratégico del diseño aplicado a transformaciones a gran escala, equilibrando visión sistémica y ejecución táctica sin comprometer la experiencia de usuario ni la operativa del negocio. La auditoría previa redujo riesgos, la definición de gobernanza del sistema aseguró consistencia real y la colaboración temprana con desarrollo aceleró decisiones críticas. Más allá del impacto visual, la migración permitió reducir deuda de diseño, mejorar eficiencia de equipos y posicionar el diseño como partner estratégico dentro de la organización.",
+  "otherRedesign": {
+    "title": "Rediseño de procesos con simulación",
+    "desc": "Proyecto de rediseño y prototipado para validar mediante test y mejorar las caídas de funnel en contratación de productos financieros que requieren simulación."
+  },
+  "otherPortfolio": {
+    "title": "Este portfolio es Diseño + IA",
+    "desc": "Este portfolio está creado con Figma Make, apoyándome en IA y utilizando MCP para conectarlo con Cursor y automatizar su publicación en GitHub."
+  }
+}

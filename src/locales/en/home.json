@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "title": "I'm Miguel Valera, a Product Designer. I turn complex problems into simple, effective solutions.",
+    "bio": "Since 2021, I’ve been part of BBVA’s design team, designing scalable solutions for complex enterprise environments across web and mobile. I align user needs with business and technical requirements to deliver meaningful value to both internal stakeholders and end users."
+  },
+  "carousel": {
+    "portfolioMv": {
+      "title": "Portfolio MV",
+      "description": "First portfolio as a UX Designer, designed and developed from scratch with HTML, CSS and JavaScript."
+    },
+    "allMusic": {
+      "title": "All.Music",
+      "description": "Figma design and prototyping for a music app for the DesignCourse contest (+1M)."
+    },
+    "nuriaFoto": {
+      "title": "Nuria Albelda Photography",
+      "description": "Responsive one-page web project designed and developed from scratch with HTML, CSS and JavaScript."
+    },
+    "vanvu": {
+      "title": "Vanvú. 72h challenge",
+      "description": "Digital product to optimize order management and reduce wait times at a fast-food restaurant."
+    },
+    "uxart": {
+      "title": "Side project: Uxart",
+      "description": "A project aimed at offering a tailored solution for independent artists."
+    },
+    "feelIt": {
+      "title": "Feel It",
+      "description": "UX/UI design. Prototype and experience."
+    }
+  },
+  "selectedProjects": {
+    "title": "Selected projects",
+    "intro": "Here are some of my recent projects in banking, with visuals limited by NDA."
+  },
+  "project1": {
+    "title": "Process redesign with simulation",
+    "description": "Redesign and prototyping project to validate through testing and improve funnel drop-off in the contracting of financial products that require simulation."
+  },
+  "project2": {
+    "title": "Migration of 100+ flows to new visual language",
+    "description": "Definition of a tactical solution impacting 150+ components and migration of 100+ flows to the new Design System in coordination with business and tech."
+  },
+  "designIA": {
+    "title": "This portfolio is Design + AI",
+    "description": "This portfolio was created with Figma Make, using AI and MCP to connect it with Cursor and automate its publication on GitHub, taking design to production."
+  },
+  "collaborations": {
+    "title": "Collaborations",
+    "subtitle": "Some brands that have trusted my work."
+  }
+}
+

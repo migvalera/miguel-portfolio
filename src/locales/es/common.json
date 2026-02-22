@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Proyectos",
+    "about": "Sobre mí"
+  },
+  "footer": {
+    "copyright": "© 2026 Miguel Valera. Hecho con 🤍 en Figma, Magicpath y Cursor.",
+    "email": "hola@miguelvalera.com"
+  },
+  "aria": {
+    "toggleMenu": "Abrir menú",
+    "linkedin": "LinkedIn",
+    "behance": "Behance"
+  },
+  "back": "← Volver",
+  "meta": {
+    "role": "Rol",
+    "client": "Cliente",
+    "year": "Año"
+  },
+  "otherProjects": "Otros proyectos...",
+  "sendMessage": "Enviar mensaje",
+  "contactHeading": "¿Hablamos?",
+  "contactIntro": "Cuéntame el reto que tienes en marcha y buscamos soluciones de diseño.",
+  "name": "Miguel Valera",
+  "productDesigner": "Product Designer",
+  "bbva": "BBVA",
+  "personal": "Personal"
+}

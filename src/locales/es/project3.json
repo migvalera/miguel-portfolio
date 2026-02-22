@@ -1,0 +1,26 @@
+{
+  "sections": {
+    "about": "Sobre el proyecto",
+    "keyObjectives": "Objetivos clave",
+    "figmaMake": "Prototipado en Figma Make",
+    "magicPathCursor": "Conectando con MagicPath y Cursor",
+    "errorsLearnings": "Errores y aprendizajes",
+    "retrospective": "Análisis y retrospectiva"
+  },
+  "title": "Este portfolio es Diseño + IA",
+  "subtitle": "Este portfolio está creado con Figma Make, apoyándome en IA y utilizando MCP para conectarlo con Cursor y automatizar su publicación en GitHub, llevando el diseño a producción.",
+  "aboutProject": "Este portfolio nace como un proyecto personal orientado a explorar el potencial real de la IA aplicada al flujo completo de diseño a producción. El objetivo ha sido construir una web funcional partiendo desde Figma y conectar distintas herramientas para acelerar la generación de código responsive, entendiendo no solo qué es posible hoy, sino dónde están las fricciones reales del design-to-code. Más allá del resultado visual, el foco estuvo en convertir el proceso en un workflow reproducible para proyectos profesionales.",
+  "keyObjectives": "El proyecto se ha centrado en experimentar los límites actuales de las herramientas de IA para transformar diseño en código, acelerar el paso de conceptualización a implementación y automatizar parte del despliegue mediante el flujo Figma > MagicPath > Cursor > Vercel. Al mismo tiempo, sirvió para identificar fricciones reales del workflow, limitaciones técnicas de los MCPs y oportunidades de mejora en la conexión entre diseño, prototipado y desarrollo.",
+  "figmaMake": "El prototipo inicial se desarrolló en Figma Make, utilizando prompts en lenguaje natural y un mini design system creado específicamente para el proyecto. El foco no fue solo construir pantallas, sino evaluar la capacidad de la herramienta para generar layouts completos, componentes reutilizables y micro-interacciones. Esta fase permitió iterar rápidamente y validar decisiones visuales, pero también evidenció que, aunque potente para exploración, no es todavía una solución directa para producción real.",
+  "magicPathCursor": "Para llevar el diseño a código se integró Figma Make con Cursor mediante MCP, generando una primera base frontend de forma semi-automatizada y conectando el proyecto con GitHub para su publicación. Aunque este flujo aceleró la creación de una versión funcional, fue necesario un alto nivel de intervención manual para mejorar fidelidad visual, estructura y calidad del código. Finalmente se incorporó MagicPath para obtener una traducción más precisa del diseño, confirmando que las herramientas actuales son aceleradores útiles, pero no sustituyen aún el refinado manual profesional.",
+  "errorsLearnings": "El proyecto dejó claro que la IA es potente para fases exploratorias, pero requiere una estrategia clara para no generar fricción innecesaria. No definir un sistema de diseño desde el inicio aumentó el retrabajo posterior, y confiar en exceso en la fidelidad del código generado llevó a ajustes manuales importantes. También se evidenció que muchas animaciones bien trabajadas en diseño no se trasladan con la misma calidad a producción, reforzando la necesidad de priorizar impacto real frente a esfuerzo invertido. En conjunto, el aprendizaje principal fue entender dónde la IA aporta velocidad y dónde sigue siendo imprescindible el control humano.",
+  "retrospective": "Este proyecto ha consolidado un flujo híbrido entre automatización y diseño consciente, donde la IA actúa como acelerador pero no como sustituto del criterio de producto. Definir sistemas desde el inicio, usar herramientas de forma estratégica y asumir intervención manual como parte del proceso ha permitido construir no solo un portfolio funcional, sino un workflow sólido: Figma → MagicPath → Cursor → Vercel. El resultado es una metodología más eficiente para futuros proyectos, reduciendo fricción entre diseño y desarrollo sin comprometer calidad profesional.",
+  "otherMigracion": {
+    "title": "Migración de más de 100 flujos a nuevo lenguaje visual",
+    "subtitle": "Definición de solución táctica con impacto en +150 componentes."
+  },
+  "otherRedesign": {
+    "title": "Rediseño de procesos con simulación",
+    "subtitle": "Proyecto de rediseño y prototipado para validar mediante test y mejorar las caídas de funnel en contratación de productos financieros que requieren simulación."
+  }
+}

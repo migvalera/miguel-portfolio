@@ -1,0 +1,27 @@
+{
+  "sections": {
+    "about": "About the project",
+    "keyObjectives": "Key objectives",
+    "redesignProcess": "Redesign process",
+    "designProposals": "Design proposals",
+    "coordination": "Coordination with business and tech",
+    "retrospective": "Analysis and retrospective"
+  },
+  "title": "Process redesign with simulation",
+  "subtitle": "Redesign and prototyping project to validate through testing and improve funnel drop-off in the contracting of financial products that require simulation.",
+  "aboutProject": "Redesign project for flows for contracting financial products for businesses that required prior simulation, where conversion drop-off was significantly higher than for other products. The aim was to analyse real friction in the funnel and redefine the experience to make financial conditions easier to understand and improve process continuity, working in coordination with design, business and tech to impact the next release directly.",
+  "keyObjectives": "As Product Designer I led the experience analysis and flow redesign in collaboration with business and development at BBVA Enterprise, ensuring alignment with regulatory, technical and conversion objectives. My focus was on reducing friction, cognitive load and drop-off at critical points in the simulation and contracting process.",
+  "redesignProcess": "We started from analysis of the existing flow, identifying key friction such as unnecessary click dependencies to start the simulation, notification overload and a visual hierarchy that forced excessive scrolling and took CTAs out of the viewport. We contrasted these issues with results from prior tests and internal flows with better performance to define improvement hypotheses centred on continuity and clarity of financial information.",
+  "designProposals": "The redesign automated the first simulation on entering the flow, using usual amounts to remove the first friction and show operating conditions directly. The layout was reorganised to keep amounts and conditions visible in a side column, reducing scroll and facilitating decision-making. In addition, copy and notifications were simplified, making them contextual to reduce cognitive load and improve step-by-step understanding.",
+  "coordination": "The high-fidelity prototype was validated with business to meet regulatory requirements and conversion objectives, and with development to ensure technical feasibility. Key functionalities were prioritised and a realistic roadmap was defined based on A/B test results, with implementation planned for both web and app, reducing risks before going to production.",
+  "retrospective": "The project consolidated a conversion-oriented design approach, where improvement came not only from the interface but from rethinking the flow logic and accumulated cognitive load. Automating frequent decisions, clarifying financial information and designing with real business data made it possible to reduce invisible but critical friction. Early validation with functional prototypes aligned all teams and enabled measurable improvements in the contracting funnel.",
+  "otherMigracion": {
+    "title": "Migration of 100+ flows to new visual language",
+    "desc": "Definition of a tactical solution impacting 150+ components."
+  },
+  "otherPortfolio": {
+    "title": "This portfolio is Design + AI",
+    "desc": "This portfolio was created with Figma Make, using AI and MCP to connect it with Cursor."
+  }
+}
+

@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "about": "About the project",
+    "keyObjectives": "Key objectives",
+    "benchmarking": "Competitive benchmarking and Product Canvas",
+    "interviews": "Stakeholder and user interviews",
+    "serviceBlueprint": "Service blueprint",
+    "wireframes": "Wireframes",
+    "functionalPrototype": "Functional prototype",
+    "userTest": "User testing and next steps",
+    "retrospective": "Analysis and retrospective"
+  },
+  "title": "Product design in 72h",
+  "subtitle": "The challenge is to design a multi-device product to optimize order management and reduce wait times at a fast-food vegan restaurant.",
+  "aboutProject": "Vanvú is an MVP digital product designed under a 72-hour sprint methodology. The project focuses on resolving the operational friction between the end user and the order management system, seeking a solution that balances visual aesthetics with a functional information architecture for external and internal customers.",
+  "keyObjectives": "Reduce customer wait times, increase positive feedback and loyalty, and optimize service and order management, reducing errors and increasing table turnover and RevPash.",
+  "benchmarking": "I carried out an analysis of direct and indirect competitors to identify established design patterns and differentiation opportunities. Using the Product Canvas, I defined the value proposition and aligned critical functionalities with business objectives, ensuring the product addressed real market needs.",
+  "interviews": "Through qualitative research, I identified critical pain points such as difficulty communicating with the kitchen and lack of agility in the order-taking process. These insights made it possible to prioritise the backlog and focus design efforts on the highest-impact functionalities for service efficiency.",
+  "serviceBlueprint": "I designed a Service Blueprint to visualise the full ecosystem, mapping front-stage user interactions and back-stage operations team processes. This holistic approach made it possible to detect operational bottlenecks and design a solution that integrates the digital flow with the physical logistics of the venue.",
+  "wireframes": "In the definition phase, I used wireframes to establish the navigation structure and layout of the main screens without visual distractions. We validated the information architecture and basic interaction flows, ensuring minimal learning curve for the user. We established the colour base, styles, typography and elements for a minimal design system.",
+  "functionalPrototype": "I built a high-fidelity prototype that includes the critical flows for selection, product customisation and checkout. The prototype makes it possible to validate component interaction and system response to different user states, facilitating communication of the final design to developers.",
+  "userTest": "I ran usability tests with the prototype to identify possible navigation errors and friction in the payment flow. Based on the results, I defined a roadmap to iterate the design, focused on conversion metrics and improving product accessibility.",
+  "retrospective": "Working for a fictional client means making strategic decisions with incomplete information. To reduce that ambiguity, I defined a minimal brand framework (mission, vision, value proposition and operational context) that allowed me to align the solution to a concrete need and design with scalability criteria. I approached the product not only as a response to a type of restaurant, but as a system adaptable to different levels of operational complexity — from small venues to structures with higher volume and staff — prioritising viability, efficiency and consistency in the experience.\n\nI also reinforced the importance of working from a multidisciplinary, data-based logic. Although the exercise was individual, I incorporated insights from interviews, comparative analysis and market patterns to support key decisions. I complemented this with reflection on the physical service process (counter operations, order management, turnover times, staff-tool interaction), understanding that the digital experience cannot be separated from operational reality. This systemic view allowed me to iterate with greater judgement and design a solution connected to both the end user and the internal dynamics of the business.",
+  "otherMigracion": {
+    "title": "Migration of 100+ flows to new visual language",
+    "desc": "Definition of a tactical solution impacting 150+ components."
+  },
+  "otherPortfolio": {
+    "title": "This portfolio is Design + AI",
+    "desc": "This portfolio was created with Figma Make, using AI and MCP to connect it with Cursor."
+  }
+}
+

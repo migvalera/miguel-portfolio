@@ -1,0 +1,26 @@
+{
+  "sections": {
+    "about": "Sobre el proyecto",
+    "keyObjectives": "Objetivos clave",
+    "redesignProcess": "Proceso de rediseño",
+    "designProposals": "Propuestas de diseño",
+    "coordination": "Coordinación con negocio y tecnología",
+    "retrospective": "Análisis y retrospectiva"
+  },
+  "title": "Rediseño de procesos con simulación",
+  "subtitle": "Proyecto de rediseño y prototipado para validar mediante test y mejorar las caídas de funnel en contratación de productos financieros que requieren simulación.",
+  "aboutProject": "Proyecto de rediseño de flujos de contratación de productos financieros para empresas que requerían simulación previa, donde se detectó una caída de conversión significativamente superior a otros productos. El objetivo fue analizar fricciones reales en el funnel y redefinir la experiencia para facilitar la comprensión de condiciones financieras y mejorar la continuidad del proceso, trabajando en coordinación con diseño, negocio y tecnología para impactar directamente en la siguiente release.",
+  "keyObjectives": "Como Product Designer lideré el análisis de experiencia y el rediseño del flujo en colaboración con negocio y desarrollo en BBVA Empresas, asegurando alineación con objetivos regulatorios, técnicos y de conversión. Mi foco estuvo en reducir fricción, carga cognitiva y abandono en puntos críticos del proceso de simulación y contratación.",
+  "redesignProcess": "Partimos del análisis del flujo existente, detectando fricciones clave como dependencias de clic innecesarias para iniciar la simulación, sobrecarga de notificaciones y una jerarquía visual que obligaba a un exceso de scroll y sacaba los CTA del viewport. Contrastamos estos problemas con resultados de tests previos y flujos internos con mejor rendimiento para definir hipótesis de mejora centradas en continuidad y claridad de información financiera.",
+  "designProposals": "El rediseño automatizó la primera simulación al acceder al flujo, usando importes habituales para eliminar la primera fricción y mostrar directamente condiciones operativas. Se reorganizó el layout para mantener visibles importes y condiciones en una columna lateral, reduciendo scroll y facilitando la toma de decisiones. Además, se simplificaron copys y notificaciones, haciéndolos contextuales para disminuir carga cognitiva y mejorar la comprensión paso a paso.",
+  "coordination": "El prototipo de alta fidelidad se validó con negocio para cumplir requisitos regulatorios y objetivos de conversión, y con desarrollo para asegurar viabilidad técnica. Se priorizaron funcionalidades clave y se definió un roadmap realista basado en los resultados de test A/B, con implementación prevista tanto en web como en app, reduciendo riesgos antes de pasar a producción.",
+  "retrospective": "El proyecto consolidó un enfoque de diseño orientado a conversión, donde la mejora no vino solo de la interfaz sino de replantear la lógica del flujo y la carga cognitiva acumulada. Automatizar decisiones frecuentes, clarificar información financiera y diseñar con datos reales de negocio permitió reducir fricciones invisibles pero críticas. La validación temprana con prototipos funcionales alineó a todos los equipos y facilitó mejoras medibles en el funnel de contratación.",
+  "otherMigracion": {
+    "title": "Migración de más de 100 flujos a nuevo lenguaje visual",
+    "desc": "Definición de solución táctica con impacto en +150 componentes."
+  },
+  "otherPortfolio": {
+    "title": "Este portfolio es Diseño + IA",
+    "desc": "Este portfolio está creado con Figma Make, apoyándome en IA y utilizando MCP para conectarlo con Cursor."
+  }
+}

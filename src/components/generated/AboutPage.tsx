@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { SiteNavbar } from '@/components/layout/SiteNavbar';
 import { SiteFooter } from '@/components/layout/SiteFooter';
+import aboutImg from "@/assets/images/projects/About_01.jpg";
 
 /* ─── Layout helpers (matching PersonalPortfolio) ─── */
 const FullWidth = ({
@@ -84,9 +85,13 @@ export const AboutPage = ({
               {t('about:downloadCV')}
             </a>
           </div>
-          <div className="flex-shrink-0">
-            <img src="@/assets/images/projects/About_01.jpg" alt="Miguel Valera" className="w-full md:w-[475px] h-[260px] md:h-[329px] rounded-[13px] object-cover" />
-          </div>
+      <div className="flex-shrink-0">
+  <img
+    src={aboutImg}
+    alt="Miguel Valera"
+    className="w-full md:w-[475px] h-[260px] md:h-[329px] rounded-[13px] object-cover"
+  />
+</div>
         </Inner>
         </div>
       </FullWidth>

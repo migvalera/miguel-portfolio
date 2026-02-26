@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { SiteNavbar } from '@/components/layout/SiteNavbar';
 import { SiteFooter } from '@/components/layout/SiteFooter';
 import { FadeInSection } from '@/components/animations/FadeInSection';
-import aboutImg from '@/assets/images/projects/Migration_03.jpg';
+import migration03Img from '@/assets/images/projects/Migration_03.jpg';
 
 /* ─── Layout helpers ─── */
 const FullWidth = ({
@@ -141,7 +141,7 @@ export const ProjectMigracion = ({
 
             <div className="flex flex-col md:flex-row gap-[10px] w-full">
               <img src="https://storage.googleapis.com/storage.magicpath.ai/user/374596014063120384/figma-assets/270787cb-8394-4196-93e5-5a65243ceac7.jpg" alt="Flow 1" className="w-full md:w-[calc(50%-5px)] h-[200px] md:h-[305px] rounded-2xl object-cover" />
-              <img src="https://storage.googleapis.com/storage.magicpath.ai/user/374596014063120384/figma-assets/5ae07fe5-e791-42d7-baa2-381633d54afb.jpg" alt="Flow 2" className="w-full md:w-[calc(50%-5px)] h-[200px] md:h-[305px] rounded-2xl object-cover" />
+              <img src={migration03Img} alt="Flow 2" className="w-full md:w-[calc(50%-5px)] h-[200px] md:h-[305px] rounded-2xl object-cover" />
             </div>
 
             <img src="https://storage.googleapis.com/storage.magicpath.ai/user/374596014063120384/figma-assets/5a517d48-feb4-4975-b54e-d40cd9fdc864.jpg" alt="Validation Flow Detail" className="w-full h-[220px] md:h-[563px] rounded-2xl object-cover" />

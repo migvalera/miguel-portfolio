@@ -85,7 +85,7 @@ export const AboutPage = ({
             </a>
           </div>
           <div className="flex-shrink-0">
-            <img src="https://storage.googleapis.com/storage.magicpath.ai/user/374596014063120384/figma-assets/e43e2cc0-4cb4-439f-a918-429485e9fdfd.png" alt="Miguel Valera" className="w-full md:w-[475px] h-[260px] md:h-[329px] rounded-[13px] object-cover" />
+            <img src="@/assets/images/projects/About_01.jpg" alt="Miguel Valera" className="w-full md:w-[475px] h-[260px] md:h-[329px] rounded-[13px] object-cover" />
           </div>
         </Inner>
         </div>

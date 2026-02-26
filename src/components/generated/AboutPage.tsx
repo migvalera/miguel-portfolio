@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { SiteNavbar } from '@/components/layout/SiteNavbar';
 import { SiteFooter } from '@/components/layout/SiteFooter';
-import aboutImg from "@/assets/images/projects/About_01.jpg";
+import aboutImg from '@/assets/images/projects/About_01.jpg';
 
 /* ─── Layout helpers (matching PersonalPortfolio) ─── */
 const FullWidth = ({

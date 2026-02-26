@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { SiteNavbar } from '@/components/layout/SiteNavbar';
 import { SiteFooter } from '@/components/layout/SiteFooter';
 import { FadeInSection } from '@/components/animations/FadeInSection';
+import aboutImg from '@/assets/images/projects/Migration_03.jpg';
 
 /* ─── Layout helpers ─── */
 const FullWidth = ({

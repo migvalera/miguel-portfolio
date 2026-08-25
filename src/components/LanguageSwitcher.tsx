@@ -19,8 +19,9 @@ export function LanguageSwitcher() {
     localStorage.setItem(LANG_STORAGE_KEY, nextLang);
   };
 
-  const currentLabel = SUPPORTED_LANGS.find((l) => l.code === currentLang)?.label ?? currentLang.toUpperCase();
-  const ariaLabel = currentLang === 'en' ? 'Switch to Spanish (Español)' : 'Switch to English';
+  const nextLang = currentLang === 'en' ? 'es' : 'en';
+  const nextLabel = SUPPORTED_LANGS.find((l) => l.code === nextLang)?.label ?? nextLang.toUpperCase();
+  const ariaLabel = nextLang === 'en' ? 'Switch to English' : 'Switch to Spanish (Español)';
 
   return (
     <button
@@ -37,7 +38,7 @@ export function LanguageSwitcher() {
         aria-hidden
       />
       <span className="font-medium text-black transition-opacity duration-300" style={{ opacity: isHovered ? 1 : 0.9 }}>
-        {currentLabel}
+        {nextLabel}
       </span>
     </button>
   );

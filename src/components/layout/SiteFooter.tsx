@@ -27,16 +27,13 @@ export function SiteFooter({ siteName, navLinks, copyright, onNavigate }: SiteFo
     <div className="w-full bg-black">
       <div className="w-full max-w-[1200px] mx-auto px-5 md:px-[100px] flex flex-col gap-8 md:gap-[40px] py-10 md:pt-[50px] md:pb-[80px]">
         <div className="flex flex-col items-center gap-6 md:flex-row md:justify-between md:items-center md:flex-wrap">
-          <div className="flex flex-col items-center gap-4 md:flex-row md:items-center md:gap-[70px]">
-            <span className="text-white font-manrope text-[16px]" style={{ fontWeight: '400' }}>
-              {siteName}
-            </span>
-            <div className="flex flex-col items-center gap-[14px] md:flex-row md:gap-[30px]">
+          <div className="flex flex-col items-start gap-4 md:flex-row md:items-center md:gap-[70px]">
+            <div className="flex flex-col items-start gap-[14px] md:flex-row md:gap-[30px]">
               {navLinks.map(({ name, label }) => (
                 <button
                   key={name}
                   onClick={() => onNavigate(name)}
-                  className="bg-transparent border-none p-0 cursor-pointer text-[#AFAFAC] font-manrope text-nav font-medium transition-colors duration-300 hover:text-accent"
+                  className="bg-transparent border-none p-0 cursor-pointer text-[#AFAFAC] font-manrope text-nav font-medium transition-colors duration-300 hover:text-accent text-left"
                 >
                   {label}
                 </button>

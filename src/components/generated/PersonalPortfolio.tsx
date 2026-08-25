@@ -97,7 +97,7 @@ const InfiniteCarousel = ({ items }: { items: { title: string; description: stri
     }}>
         {duplicated.map((project, index) => {
         const isHovered = hoveredIndex === index;
-        return <a key={`${project.title}-${index}`} href={project.behanceUrl} target="_blank" rel="noopener noreferrer" className="relative flex-shrink-0 overflow-hidden rounded-card cursor-pointer block" style={{
+        return <div key={`${project.title}-${index}`} className="relative flex-shrink-0 overflow-hidden rounded-card block" style={{
           width: `${CARD_WIDTH}px`,
           height: '220px'
         }} onMouseEnter={() => setHoveredIndex(index)} onMouseLeave={() => setHoveredIndex(null)}>
@@ -118,7 +118,7 @@ const InfiniteCarousel = ({ items }: { items: { title: string; description: stri
                   <p className="m-0 text-white font-manrope text-[13px] font-normal leading-[1.5] opacity-80">{project.description}</p>
                 </div>
               </div>
-            </a>;
+            </div>;
       })}
       </div>
     </div>;
